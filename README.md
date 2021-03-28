@@ -8,7 +8,7 @@ Kotlin练习项目，查看天气
 
 # 前期准备工作
 1. 使用彩云天气的API实现信息的获取
-2. 相关功能的接口
-（1）获取全球绝大数城市的数据，接口过期，使用文件读取方式，调用第三方的接口
-（2）根据经纬度获取天气 https://api.caiyunapp.com/v2.5/TAkhjf8d1nlSlspN/121.6544,25.1552/weather.json
+2. 相关功能的接口  
+（1）获取全球绝大数城市的数据，接口过期，使用文件读取方式，调用第三方的接口   
+（2）根据经纬度获取天气 https://api.caiyunapp.com/v2.5/TAkhjf8d1nlSlspN/121.6544,25.1552/weather.json   
 （3）获取该地方未来几天的天气 https://api.caiyunapp.com/v2.5/TAkhjf8d1nlSlspN/121.6544,25.1552/daily.json
